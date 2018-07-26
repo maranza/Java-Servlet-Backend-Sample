@@ -1,3 +1,3 @@
 #! /bin/bash
 
-curl -X POST --data '{"firstName":"william","lastName":"jackson","IdNumber":"194512122231"}' http://localhost:8080/Patient
+curl -X POST --data '{"name":"Master","position":"Software Tester"}' http://localhost:8080/employees
