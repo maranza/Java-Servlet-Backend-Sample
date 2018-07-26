@@ -6,5 +6,5 @@ app.iml
 .idea/workspace.xml
 .project
 .medicalcore
-/src/main/java/tk
+src/main/java/tk
 
